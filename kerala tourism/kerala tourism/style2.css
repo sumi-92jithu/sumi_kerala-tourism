@@ -1,0 +1,19 @@
+.sign{
+    border: 2px solid blue;
+    background-color:burlywood;
+    height: 30em;
+    margin-top: 5%;
+    
+    padding: 30px;
+  }
+   #butn{
+    width: 10%;
+    height: 2em;
+    color: white;
+    background-color: blue;
+    border: blue;
+  }
+
+  label{
+      text-align: left;
+  }
